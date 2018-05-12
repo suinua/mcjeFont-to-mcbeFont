@@ -2,6 +2,6 @@
 minecraft java edition向けのフォントをminecraft bedrock edition向けに変換します
 
 #使い方
-jeFontフォルダに変換するフォント（画像）をいれ
-Rename.exeをダブルクリックするとbeFontにリネームされた
-フォントが生成されます
+１、**jeFontフォルダを作り**変換するフォント（画像）をいれる
+２、Rename.exeをダブルクリック
+３、beFontにリネームされたフォントが生成されます
