@@ -3,7 +3,7 @@ minecraft java edition向けのフォントをminecraft bedrock edition向けに
 
 # 使い方  
 １、clone or downloadからdownload zipでダウンロードし解凍  
-２、**jeFontフォルダを作り**変換するフォント（画像）をいれる  
+２、jeFontに変換するフォント（画像）をいれる  
 ３、Rename.exeをダブルクリック  
 ４、beFontにリネームされたフォントが生成されます  
   
