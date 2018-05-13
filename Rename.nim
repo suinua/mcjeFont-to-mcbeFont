@@ -1,6 +1,4 @@
-import os_files.dialog
-
-import os,strutils,re,dialogs
+import os,strutils,re,os_files.dialog
 
 proc system(formatstr: cstring) {.header: "<stdio.h>", importc: "system", varargs.}
 
